@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 330 80" role="img" aria-label="Talento Tech Ecommerce">
+  <defs>
+    <linearGradient id="logoVerde" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0a8a80"/>
+      <stop offset="1" stop-color="#066f66"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Ícono: carrito de compras -->
+  <rect x="6" y="10" width="58" height="58" rx="16" fill="url(#logoVerde)"/>
+  <path d="M14 24 H20 L23 35" fill="none" stroke="#ffffff" stroke-width="3.6"
+        stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M22 34 H50 L45.5 50 H26.5 Z" fill="#ffffff" stroke="#ffffff"
+        stroke-width="3" stroke-linejoin="round"/>
+  <circle cx="29" cy="57" r="3.2" fill="#ffffff"/>
+  <circle cx="44" cy="57" r="3.2" fill="#ffffff"/>
+
+  <!-- Wordmark -->
+  <text x="80" y="50" font-family="Arial, Helvetica, sans-serif" font-size="30"
+        font-weight="800" letter-spacing="-0.5">
+    <tspan fill="#222222">Talento </tspan><tspan fill="#088178">Tech</tspan>
+  </text>
+  <text x="82" y="68" font-family="Arial, Helvetica, sans-serif" font-size="10.5"
+        font-weight="700" letter-spacing="5.5" fill="#465b52">ECOMMERCE</text>
+</svg>
